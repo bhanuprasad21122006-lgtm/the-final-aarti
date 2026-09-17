@@ -18,22 +18,7 @@
 ![The Final Aarti - Main Menu & Screen HUD](assets/demo/gameplay_preview.png)
 *Figure 2: The Final Aarti title screen, illuminated pandal entrance, and festival HUD.*
 
-### 🚀 How to Launch the Demo Locally
-1. **Zero-Install Direct Browser Launch**:
-   - Double-click [`index.html`](file:///c:/Users/bhanu/OneDrive/Desktop/ganeshgame/index.html) in any modern web browser.
-2. **Local HTTP Server (Recommended for audio stability)**:
-   ```bash
-   # Option A: Python
-   python -m http.server 3000
 
-   # Option B: Node.js npx serve
-   npx serve .
-   ```
-   Navigate to [http://localhost:3000/index.html](http://localhost:3000/index.html).
-3. **Instant Play**:
-   - Click **Start Festival Duty** on the Main Menu, then **Begin Festival Duty** on the Intro briefing.
-
----
 
 ## 🪔 Overview & Elevator Pitch
 
@@ -224,3 +209,14 @@ The in-game tutorial and instructions guide the player through core controls, me
 ## 🔒 Known Limitations
 - **Audio Autoplay Policy**: Modern web browsers require one user gesture (a click or keypress) before the Web Audio API context can unlock. The game includes an automatic one-click audio unlock handler on the start screen.
 - **Speech Synthesis Voice Availability**: Voiceover uses native system TTS voices. If an Indian English voice (`en-IN`) is not installed on the user's operating system, the system smoothly falls back to default English voices.
+
+---
+
+👨‍💻 Author
+Bhanu Prasad
+
+CSE Student | AI & Software Engineering
+
+GitHub
+
+github.com/bhanuprasad21122006-lgtm
