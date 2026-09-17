@@ -212,11 +212,14 @@ The in-game tutorial and instructions guide the player through core controls, me
 
 ---
 
-👨‍💻 Author
-Bhanu Prasad
+# 👨‍💻 Author
+
+**Bhanu Prasad**
 
 CSE Student | AI & Software Engineering
 
-GitHub
+### GitHub
 
-github.com/bhanuprasad21122006-lgtm
+[github.com/bhanuprasad21122006-lgtm](https://github.com/bhanuprasad21122006-lgtm)
+
+---
