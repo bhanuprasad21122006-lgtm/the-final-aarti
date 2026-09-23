@@ -10,7 +10,7 @@
 
 ## 🎬 Live Demo & Gameplay Preview
 
-> 🌟 **Playable Browser Demo**: Currently running live on [http://localhost:3000/index.html](http://localhost:3000/index.html) or open `index.html` directly in any modern browser!
+> 🌟 **Playable Browser Demo**: Currently running live on [https://final-aarti.netlify.app/](https://final-aarti.netlify.app/) or open `index.html` directly in any modern browser!
 
 ![The Final Aarti - Gameplay Demo](assets/demo/contest_demo.webp)
 *Figure 1: Live gameplay demonstration showing festival pandal exploration, NPC interaction, Volunteer Diary (`Tab`), and sacred time-loop rewind (`R`).*
